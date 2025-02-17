@@ -634,6 +634,7 @@ body{
         background: #252525;
         text-transform: capitalize;
         text-align: center;
+        margin-top: 50px;
         margin-bottom: 50px;
         color: #fff;
         background-clip: text;
