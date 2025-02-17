@@ -773,12 +773,15 @@ body{
         line-height: 20px;
         margin-bottom: 50px;
     }
+    .skill-img{
+        height: 150px;
+    }
     .skill-level{
         position: absolute;
         top: -50px;
         right: 0;
-        width: 150px;
-        height: 150px;
+        width: 100px;
+        height: 100px;
         display: flex;
         justify-content: center;
         align-items: center;
